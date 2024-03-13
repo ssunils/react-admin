@@ -10,8 +10,8 @@ const Revenue = () => {
     }
   return (
     <div class='p-2 md:p-2 xl:p-4'>
-        <h4 class='p-2 md:p-2 font-bold text-sm'>Revenue</h4>
-        <img src={revenue} alt="Revenue" class='w-36 h-30 ml-20  md:ml-6 md:h-20 md:w-32 lg:w-32 lg:h-28 lg:ml-6 xl:w-56 xl:h-44 xl:ml-12 xl:mt-6'></img>
+        <h4 class='p-2 md:p-1 lg:p-2 font-bold text-sm'>Revenue</h4>
+        <img src={revenue} alt="Revenue" class='w-36 h-30 ml-20  md:ml-2 md:h-20 md:w-32 lg:w-32 lg:h-28 lg:ml-6 xl:w-56 xl:h-44 xl:ml-12 xl:mt-6'></img>
         <div class='text-xs ml-6 lg:ml-8'>
         <div class=' flex md:flex-col   md:mt-2 xl:flex-row xl:ml-5 xl:mt-4'>
       <div class="mt-2 ">

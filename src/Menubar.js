@@ -50,7 +50,7 @@ const Menubar = () => {
           <img src={settings} alt = 'settings'></img>
           <p class='ml-4'>Settings</p></div>
         </div>
-    <div class=' pt-2 bg-sky-50 rounded-md mx-8 mt-10 mb-2 md:mt-24  lg:mt-20 xl:mt-40'>
+    <div class=' pt-2 bg-sky-50 rounded-md mx-8 mt-10 mb-2 md:mt-32  lg:mt-20 xl:mt-40'>
     <p class='rounded-full  border-2 w-12 h-12 bg-zinc-200 m-6 ml-32 md:m-3 lg:m-2 md:ml-16 lg:ml-28 xl:ml-32' ></p>
     <p class=' px-10 font-bold text-center' >Grace Trans</p>
     <p class='text-center px-10 pb-2'>Owner & Founder</p>
